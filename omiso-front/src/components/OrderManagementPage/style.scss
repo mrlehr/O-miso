@@ -1,0 +1,38 @@
+/*OrderManagementPage*/
+.container {
+  margin: 1rem;
+}
+
+.order-management {
+    margin-bottom: 80px;
+  }
+  
+
+/*Order*/
+.lists{
+  margin-top:3rem;
+  color:grey;
+}
+.order{
+  color: black;
+}
+.list {
+  padding: 5px;
+  margin: 15px;
+  
+}
+
+.minus{
+  color: grey;
+  margin-top:-3px;
+}
+
+/*OrderDetails*/
+.client-details {
+  margin-bottom: 35px;
+  padding-left: 10px;
+}
+
+.total {
+  padding-top: 10px;
+}

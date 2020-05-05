@@ -1,0 +1,18 @@
+/* Import bootstrap*/
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+.app {
+  background: url(../../assets/image/Background-light-opac.png);
+  font-family: 'Lobster', cursive, sans-serif;
+  background-repeat: no-repeat;
+  background-position: 20% 26%;
+  background-attachment: fixed;
+}
+
+
+
+
+@media only screen and (min-width: 768px) {
+  .app { background-position: 30% 90%; };
+  .app { background-size: 100%; };
+ }
